@@ -10,5 +10,6 @@ Each project includes:
 
 Projects in this repository:
 - **Bambu_Lab** – 3D printing store database with tables, procedures, and sample data
+- **Tea_Shop** – Tea Shop database with tables, procedures, views and sample data
 
 This repository showcases hands-on work and practical SQL experience for learning and portfolio purposes.
